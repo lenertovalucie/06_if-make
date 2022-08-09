@@ -2,10 +2,8 @@
 
 ### Úkol - Vytvoř svůj kód!
 
-- nabídněte zákaznikovi menu (print funkce) - čaj, kávu a vodu
-- zákazník si vybere jeden z nápojů (input funkce)
+- nabídněte zákaznikovi čaj (print funkce) 
 - pokud si zákazník vybere čaj, vypište mu do konzole cenu tohoto nápoje (if podmínka)
-- stejně tak postupujte v případě kávy a vody (if podmínka)
 - pokud uživatel napíše cokoliv jiného, napište, že nápoj nemáte (else)
 
 ### Kód nefunguje? 
